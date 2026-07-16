@@ -1,7 +1,7 @@
-## Hi, I'm Trish
 
 ───※ ·👋· ※───
 ### Hi, I'm Trish! 
+# I'm an incoming CS Major at CMU also interested in math!
 
 ![Cute Header](https://vercel.app)
 
