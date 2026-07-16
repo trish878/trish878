@@ -1,12 +1,10 @@
 ## Hi, I'm Trish
 
-<!--
-**trish878/trish878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+───※ ·👋· ※───
+### Hi, I'm Trish! 
 
-Here are some ideas to get you started:
+![Cute Header](https://vercel.app)
 
-- I'm an incoming CS Major at CMU
-- I'm interested in robotics
-
-
--->
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
